@@ -7,10 +7,15 @@
 
 <body>
   
+  
   <div id="media">
+  <a https://abirkett.github.io/Rupert/
     <h2>Richie</h2>
     <img src="https://78.media.tumblr.com/c3dced5df0e322c49beddedfa55729c2/tumblr_pd6snlfHGB1xchmeyo1_250.jpg" />
   </div>
+  </a>
+  
+  
   
   <div id="media">
     <h2>Rupert</h2>
