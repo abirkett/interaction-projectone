@@ -21,15 +21,7 @@
     <h2>Kane</h2>
     <img src="https://78.media.tumblr.com/c0d650557c7f9d09f27f266c78d6ab5e/tumblr_pd6smsNANp1xchmeyo1_250.jpg" />
   </div>
-  
-  
-
-  <body>
-  
-
-
-
-<body>
+ 
  
   <div id="media">
     <p>
