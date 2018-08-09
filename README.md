@@ -10,19 +10,19 @@
  </div>
   <div id="media">
     <h2>Richie</h2>
-    <img src="https://78.media.tumblr.com/e5a7bdaa47f2e92bfd7f00c5c8e55b54/tumblr_pd6s1pYcrv1xchmeyo1_1280.png" />
+    <img src="https://78.media.tumblr.com/c3dced5df0e322c49beddedfa55729c2/tumblr_pd6snlfHGB1xchmeyo1_250.jpg" />
   </div>
   
   </div>
   <div id="media">
     <h2>Rupert</h2>
-    <img src="https://78.media.tumblr.com/1cd4fdb073773417405a2ee1a969a756/tumblr_pd6s1defAm1xchmeyo1_1280.png" />
+    <img src="https://78.media.tumblr.com/67cc4eb91a2cf46da86e92634908d91e/tumblr_pd6snvtyGl1xchmeyo1_250.jpg" />
   </div>
   
   </div>
   <div id="media">
     <h2>Kane</h2>
-    <img src="https://78.media.tumblr.com/356d72ffcb208abdb4f06b235999316f/tumblr_pd6s2eMp5f1xchmeyo1_1280.png" />
+    <img src="https://78.media.tumblr.com/c0d650557c7f9d09f27f266c78d6ab5e/tumblr_pd6smsNANp1xchmeyo1_250.jpg" />
   </div>
   
   
