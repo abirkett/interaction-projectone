@@ -7,18 +7,18 @@
 
 <body>
   
-  
   <div id="media">
     <h2>Richie</h2>
     <img src="https://78.media.tumblr.com/c3dced5df0e322c49beddedfa55729c2/tumblr_pd6snlfHGB1xchmeyo1_250.jpg" />
   </div>
   
   
-  
+  <a herf=https://abirkett.github.io/Rupert/
   <div id="media">
     <h2>Rupert</h2>
     <img src="https://78.media.tumblr.com/67cc4eb91a2cf46da86e92634908d91e/tumblr_pd6snvtyGl1xchmeyo1_250.jpg" />
   </div>
+  </a>
 
   <div id="media">
     <h2>Kane</h2>
