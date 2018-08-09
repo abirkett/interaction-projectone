@@ -7,19 +7,16 @@
 
 <body>
   
- </div>
   <div id="media">
     <h2>Richie</h2>
     <img src="https://78.media.tumblr.com/c3dced5df0e322c49beddedfa55729c2/tumblr_pd6snlfHGB1xchmeyo1_250.jpg" />
   </div>
   
-  </div>
   <div id="media">
     <h2>Rupert</h2>
     <img src="https://78.media.tumblr.com/67cc4eb91a2cf46da86e92634908d91e/tumblr_pd6snvtyGl1xchmeyo1_250.jpg" />
   </div>
-  
-  </div>
+
   <div id="media">
     <h2>Kane</h2>
     <img src="https://78.media.tumblr.com/c0d650557c7f9d09f27f266c78d6ab5e/tumblr_pd6smsNANp1xchmeyo1_250.jpg" />
@@ -34,7 +31,6 @@
 
 <body>
  
- </div>
   <div id="media">
     <p>
   as they get books out from the......
