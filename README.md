@@ -13,12 +13,14 @@
   </div>
   
   
-  <a herf=https://abirkett.github.io/Rupert/
+
   <div id="media">
     <h2>Rupert</h2>
     <img src="https://78.media.tumblr.com/67cc4eb91a2cf46da86e92634908d91e/tumblr_pd6snvtyGl1xchmeyo1_250.jpg" />
-  </div>
-  </a>
+  <a herf=https://abirkett.github.io/Rupert/ </a>
+</div>
+   
+
 
   <div id="media">
     <h2>Kane</h2>
