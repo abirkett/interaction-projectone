@@ -17,7 +17,7 @@
   <div id="media">
     <h2>Rupert</h2>
     <img src="https://78.media.tumblr.com/67cc4eb91a2cf46da86e92634908d91e/tumblr_pd6snvtyGl1xchmeyo1_250.jpg" />
-  <a href=https://abirkett.github.io/Rupert/> </a> 
+  <a href="https://abirkett.github.io/Rupert/"> </a> 
 </div>
    
 
