@@ -1,9 +1,9 @@
 # Interaction: Borrowing books from the VUW Te Aro Library 
 
 <p>
-  This website follows and examines the interactions of three, 19 year old, male, Victoria University students.
+  This website follows and examines the interactions of three, 19 year old, male, Victoria University students. Meet:
   </p>
-  <h2> meet:</h2>
+  
 
 <body>
   
@@ -37,7 +37,7 @@
  </div>
   <div id="media">
     <p>
-  as they get books out from the
+  as they get books out from the......
   </p>
     <h2>VUW Te Aro Library</h2>
     <img src="https://78.media.tumblr.com/80eb080147e2467627199efcce71fdcf/tumblr_pd6kvy8OXL1xchmeyo1_1280.png" />
